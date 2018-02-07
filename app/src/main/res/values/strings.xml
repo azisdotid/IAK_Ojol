@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Order Ojek Online</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="grab">
+
+        "1. Instal Aplikasi Grab\n\n"
+
+        "Pertama Instal aplikas Grab-nya di PlayStore bagi yang menggunakan Hp Android dan bagi yang"
+        "menggunakan Iphone anda bisa download di AppStore jika kalian tidak tahu Sistem Oprasi kalian apa "
+        "kalian bisa scan kode QR yang sudah tersedia.\n"
+
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail_grab1">DetailActivity</string>
+    <string name="grab1">
+        "2. Pesan GrabBike Dengan Mudah\n\n"
+
+        "1. Pilih ikon layanan GrabBike, maka aplikasi ini akan mendeteksi lokasi Anda secara otomatis untuk melakukan penjemputan.\n"
+        "2. Masukkan lokasi penjemputan (jika lokasi yang dideteksi oleh aplikasi ini kurang akurat), masukkan juga lokasi tujuan.\n "
+        "3. Grab akan menampilkan estimasi biaya yang harus Anda bayar kepada pengemudi, jika Anda setuju maka segera tekan Next.
+.\n"
+
+    </string>
+    <string name="action_settings1">Settings</string>
+    <string name="title_activity_detail_grab2">DetailActivity</string>
+    <string name="grab2">
+        "3. Mencari Biker Terdekat\n\n"
+
+        "Setelah mengkonfirmasi pesanan, biker yang terdekat akan terinfo dan kamu dapat lihat konfirmasi mereka secara langsung.\n"
+
+    </string>
+    <string name="action_settings2">Settings</string>
+    <string name="title_activity_detail_grab3">DetailActivity</string>
+    <string name="grab3">
+        "4. Biker Yang Terpilih.\n\n"
+
+        "Hore! Kamu akan dapatkan konfirmasi akan biker yang akan menjemput dalam satu menit."
+        
+    </string>
+    <string name="action_settings3">Settings</string>
+    <string name="title_activity_detail_grab4">DetailActivity</string>
+    <string name="grab4">
+        "5. Melacak Posisi Biker.\n\n"
+
+        "Kenali bikermu, lacak ketika dia menuju lokasimu, dan bagi info kepada yang terkasih untuk ikut melacak perjalanan kamu"
+        "Selamat Anda Mendapat Bikernya."
+        "Selesai"
+
+    </string>
+    <string name="action_settings4">Settings</string>
+    <string name="title_activity_detail_gojek">DetailGojek</string>
+    <string name="gojek">
+        "1. Instal Aplikasi Gojek.\n\n"
+
+        "Download dan install terlebih dahulu Aplikasi Gojek di Playstore untuk android dan AppStore untuk pengguna IOS (Apple).."
+        
+    </string>
+    <string name="title_activity_detail_gojek2">DetailGojek2</string>
+    <string name="gojek1">
+        "2. Memilih Layanan GoRide.\n\n"
+
+        "Jika anda sudah install aplikasi Gojek maka masuklah ke aplikasi tersebut,  nanti disana anda akan melihat banyak menu pilihan yang masing-masing memiliki simbol tertentu."
+        ", ada simbol sendok garpu, sepeda motor, keranjang belanja dan lain"
+        "Untuk menggunakan Gojek sebagai antar jemput (ngojek) pilihlah menu Go-Ride yang bergambar orang naik sepeda motor.\n"
+
+    </string>
+    <string name="title_activity_detail_gojek3">DetailGojek3</string>
+    <string name="gojek2">
+        "3. Menentukan Lokasi Penjuemputan dan Tujuan.\n\n"
+
+        "Pada tampilan diatas anda akan diminta untuk mengisi alamat penjemputan dan alamat tujuan, oleh sebab itu anda harus mengisinya\n"
+        "Perlu diketahui juga bahwa berdasarkan  alamat tersebutlah kemudian sistem akan menghitung berapa biayanya. Jadi masukan alamat penjemputan dan juga tujuan dengan benar."
+
+    </string>
+    <string name="title_activity_detail_gojek4">DetailGojek4</string>
+    <string name="gojek3">
+        "4. Mulai Meng-order GoRide.\n\n"
+
+        "Misal dalam contoh tulisan ini, kita mengisi alamat asal dan alamat tujuan sebagai berikut. Setelah kita mengisi alamat asal dan alamat tujuan, maka akan terlihat jarak dan harganya.\n"
+        "Setelah alamat asal dan alamat tujuan diisi, maka tekan tombol ORDER/NEXT yang ada dibawah, maka akan keluar tampilan yang menunjukan ringkasan alamat asal, alamat tujuan serta biaya yang akan dikeluarkan sebagai berikut.\n"
+        "Setelah melihat rekap alamat asal/tujuan dan biayanya, maka pilih cara bayarnya (Pay With), klik saja tombol Pay With tersebut nanti akan muncul Cash atau Kredit Gojek, silakan pilih salah satu. Kemudian tekan ORDER. \n"
+        "Setelah tekan ORDER maka aplikasi akan meneruskan ke gojek untuk mencarikan pengojek terdekat, tunggu saja nanti akan ada yang nelpon untuk konfirmasi lebih lanjut."
+    </string>
+
+</resources>
